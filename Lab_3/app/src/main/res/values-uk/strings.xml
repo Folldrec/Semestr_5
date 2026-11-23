@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gesture DTW</string>
+    <string name="hint_usage">1) Введіть назву жесту, затисніть «Записати» і рухайте телефон, потім відпустіть.\n2) Затисніть «Розпізнати» і повторіть жест.</string>
+    <string name="gesture_name_hint">Назва жесту</string>
+    <string name="hold_to_record">Затисніть, щоб записати жест</string>
+    <string name="hold_to_recognize">Затисніть, щоб розпізнати</string>
+    <string name="result_placeholder">Тут з’явиться результат</string>
+    <string name="templates_title">Збережені жести (довге натискання — видалити)</string>
+    <string name="recording">Запис…</string>
+    <string name="template_saved">Жест «%1$s» збережено</string>
+    <string name="recognized">Жест: %1$s (відстань %2$.3f)</string>
+    <string name="unknown_gesture">Невідомий жест. Найближчий: %1$s (відстань %2$.3f)</string>
+    <string name="no_templates">Збережених жестів ще немає</string>
+    <string name="no_accelerometer">На цьому пристрої немає акселерометра</string>
+    <string name="error_name_required">Введіть назву жесту</string>
+    <string name="error_too_short">Рух був надто коротким або слабким, спробуйте ще раз</string>
+    <string name="delete_confirm">Видалити жест «%1$s»?</string>
+    <string name="delete">Видалити</string>
+    <string name="language_system">Мова системи</string>
+    <string name="language_uk">Українська</string>
+    <string name="language_en">English</string>
+</resources>

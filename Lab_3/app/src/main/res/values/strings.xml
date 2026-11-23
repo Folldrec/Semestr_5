@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gesture DTW</string>
+    <string name="hint_usage">1) Enter a gesture name, hold \"Record\" and move the phone, then release.\n2) Hold \"Recognize\" and repeat the gesture.</string>
+    <string name="gesture_name_hint">Gesture name</string>
+    <string name="hold_to_record">Hold to record gesture</string>
+    <string name="hold_to_recognize">Hold to recognize</string>
+    <string name="result_placeholder">Result will appear here</string>
+    <string name="templates_title">Saved gestures (long press to delete)</string>
+    <string name="recording">Recording…</string>
+    <string name="template_saved">Gesture \"%1$s\" saved</string>
+    <string name="recognized">Gesture: %1$s (distance %2$.3f)</string>
+    <string name="unknown_gesture">Unknown gesture. Closest: %1$s (distance %2$.3f)</string>
+    <string name="no_templates">No saved gestures yet</string>
+    <string name="no_accelerometer">This device has no accelerometer</string>
+    <string name="error_name_required">Enter a gesture name</string>
+    <string name="error_too_short">Movement was too short or too weak, try again</string>
+    <string name="delete_confirm">Delete gesture \"%1$s\"?</string>
+    <string name="delete">Delete</string>
+    <string name="language_system">System language</string>
+    <string name="language_uk">Українська</string>
+    <string name="language_en">English</string>
+</resources>

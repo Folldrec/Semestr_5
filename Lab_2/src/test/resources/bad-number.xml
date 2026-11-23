@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tariffs><Tariff id="T001"><Name>X</Name><OperatorName>Op</OperatorName><Payroll>abc</Payroll><CallPrices><InsideNetwork>1.00</InsideNetwork><OutsideNetwork>1.00</OutsideNetwork><Landline>1.00</Landline></CallPrices><SmsPrice>1.00</SmsPrice><Parameters><FavoriteNumber>1</FavoriteNumber><Tarification>per-minute</Tarification><ConnectionFee>0.00</ConnectionFee></Parameters></Tariff></Tariffs>
